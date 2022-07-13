@@ -16,7 +16,7 @@ This course is using the :sparkles: open source project [resume-template](https:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Managing merge conflicts
+## Managing merge conflicts [💎](https://github.com/Zi-Tao/merge-conflicts/blob/main/managing-merge-conflicts.pdf)
 
 Step 1: [Resolve a conflict](https://github.com/Zi-Tao/merge-conflicts/pull/1)
 
